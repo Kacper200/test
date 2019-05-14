@@ -1,0 +1,51 @@
+body
+{
+	background:#f0f8ff;
+}
+
+#header
+{
+	background:green;
+	float:left;
+	width: 100%;
+}
+#naglowek
+{
+	font-size:3em;
+	text-align:center;
+}
+#tresc
+{
+	background:lightgrey;
+}
+ul
+{float: left;
+padding: 0;
+margin: 0;
+list-style: none;
+}
+li a
+{display:block;
+float:left;
+text-align:center;
+font-size: 1.2em;
+width:130px;
+text-decoration: none;
+color: f0f8ff;
+background: magenta;
+padding: 10px 15px;
+margin: 0px 1px 1px 0px;
+border: 1px solid navy;
+border-radius: 10px;
+}
+li a:hover
+{color: magenta;
+background: darkblue;
+border: 1px solid;
+}
+#stopka
+{
+	background: cyan;
+	text-align: center;
+}
+<ul>
